@@ -1,0 +1,114 @@
+a:hover{
+    text-decoration: none;
+}
+.section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.section h2.section-head{
+    color: black;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.section h3.section-head{
+    color: black;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.section h3.section1-head:after{
+    color:red ;
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    margin: 20px auto;
+}
+
+#header{
+    color: black;
+    
+}
+#menu
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+#logo{
+    margin-top: 6px;
+    padding: 6px;
+}
+
+#menu li{
+    display: inline-block;
+}
+#menu li a{
+    color: black;
+    padding: 15px 10px;
+    display: block;
+
+}
+#banner{
+    background: url('../images/image2.jpg') no-repeat 0 0;
+    background-size: cover;
+}
+.banner-title h1{
+    background: rgb(255, 255, 255);
+    display: inline-block;
+    padding: 10px;
+    margin: 0;
+}
+.service-box{
+    text-align: center;
+   border: 4px solid black;
+   background-color: grey;
+}
+.service-box i.fa{
+    color: red;
+    font-size: 70px;
+    margin-bottom: 15px;
+}
+
+.service1 box{
+    text-align: center;
+   border: 4px solid black;
+   background-color: grey;
+}
+
+.service1 box i.fa{
+    color: red;
+    font-size: 70px;
+    margin-bottom: 15px;
+}
+.detailed{
+    background-color: rgb(32, 43, 47);
+
+
+}
+.section-head{
+  color: white;
+}
+#footer-sidebar
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+#footer-sidebar li{
+color: white;
+    display: inline-block;
+}
+#footer-sidebar li a{
+    color: white;
+    padding: 15px 10px;
+    display: block;
+
+}
+#footer-sidebar{
+    background-color: rgb(32, 43, 47);
+
+
+}
